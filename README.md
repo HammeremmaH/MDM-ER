@@ -1,3 +1,3 @@
-MDM
+MDM-ER
 ===
-Complete Master Data Management (MDM) system.
+Complete Master Data Management and Entity Resolution system.
